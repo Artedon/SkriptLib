@@ -1,1 +1,2 @@
 every 5 seconds:
+  broadcast "hello world!"
